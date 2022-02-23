@@ -2,7 +2,7 @@
     Public Function generandoGuias() As String
         '-----------------------------
         ' Este es un nuevo "controller" para un webservice SUGERIDO de generar guias XXX
-        ' Juan Arturo Gomez Perez Feb 2022
+        ' Juan Arturo Gomez Perez Feb 2022 Este es un cambio
         ' Tomado de https://www.youtube.com/watch?v=nEzeMdzA_Wk
         '-----------------------------
         Dim cadenaRespuesta As String = ""
