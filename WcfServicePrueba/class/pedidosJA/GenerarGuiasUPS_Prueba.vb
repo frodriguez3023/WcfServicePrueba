@@ -7,7 +7,7 @@
         '-----------------------------
         Dim cadenaRespuesta As String = ""
         cadenaRespuesta = "001"
-        cadenaRespuesta = cadenaRespuesta & " HOLA JUAN ARTURO"
+        cadenaRespuesta = cadenaRespuesta & " HOLA JUAN ARTURO GOMEZ"
         generandoGuias = cadenaRespuesta
     End Function
 
